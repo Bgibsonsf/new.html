@@ -18,6 +18,10 @@ body{
     grid-template-columns: repeat(7, 1fr);
 }
 
+a:hover{
+    color:red;
+}
+
 .left-section{
     grid-column: span 2;
     height: 100%;
